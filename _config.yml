@@ -1,3 +1,4 @@
-theme: jekyll-theme-architect
-title: 💻
+title: My Resume 💻
+url: 'http://junlulocky.com'
+baseurl: '/PanelCV' #change it according to your repository name
 description: Josu Goiria's CV
