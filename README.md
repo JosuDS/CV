@@ -10,4 +10,6 @@
 
 </div>
 
+[Descargar Versión PDF](Cita_D172403.pdf)
+
 [Versión Online](https://josuds.github.io/CV/)
