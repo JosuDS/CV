@@ -10,3 +10,4 @@
 
 </div>
 
+[Versión Online](https://josuds.github.io/CV/)
